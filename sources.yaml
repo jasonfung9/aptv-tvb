@@ -1,0 +1,29 @@
+# 10 条唯一源（2026-11-24 截图确认）
+# label 是频道名后加的来源短标签，取自 APTV 里的标题，去掉括号部分
+# 例如 裤佬：APTV 标题是“梅花（APTV群）”，2026-11-24 用户改用作者名“裤佬”作标签；suxuang (APTV群 | TVB) -> suxuang
+# 顺序 = 主用优先顺序：TVB 优先 Juli / suxuang / 裤佬 / lilei6900s
+# 已剔除：Kimentanm（与 APTV 同链接重复）、Gary（APTV 标已失效，链接截断无法恢复）
+# 只用你有权使用的公开或自有源。
+sources:
+  urls:
+    - url: https://cdn.qd.je/live.m3u
+      label: Juli
+    - url: https://bit.ly/suxuang-v4
+      label: suxuang
+    - url: https://iptv.445569.xyz/live.m3u
+      label: 裤佬
+    - url: https://cdn.jsdelivr.net/gh/lilei6900s/iptv@main/iptv.m3u
+      label: lilei6900s
+    - url: https://gh-proxy.com/https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u
+      label: weizhi
+    - url: https://bit.ly/iptv-aptv
+      label: APTV
+    - url: https://iptv.yang-1989.xyz/playlist.m3u
+      label: YanG
+    - url: https://bit.ly/itvlist
+      label: itvlist
+    - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u
+      label: FMM
+    - url: https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+      label: Free-TV
+  files: []
