@@ -69,7 +69,7 @@ def is_sports(ch) -> bool:
         return True
     if re.search(r"cctv-?5\+?", n):
         return True
-    if n.startswith("nba") or g == "NBA":
+    if re.search(r"(?<![A-Za-z])NBA(?![A-Za-z])", name, re.I) or g == "NBA":
         return True
     if "体育" in name or "espn" in n:
         return True
@@ -83,7 +83,7 @@ def sports_rank(name: str) -> int:
         return 2
     if "cctv5" in n:
         return 1
-    if n.startswith("nba"):
+    if re.search(r"(?<![A-Za-z])NBA(?![A-Za-z])", name, re.I):
         return 3
     return 4
 
