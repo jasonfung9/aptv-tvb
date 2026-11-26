@@ -1,19 +1,19 @@
 # APTV 清洗报告
 
-- 输入合计：8451 条
-- 剔除占位/死链：1221 条
-- URL 去重后：6742 条
-- 输出合计：5302 条（全量 tvb.m3u）
-- 精简版：792 条（tvb-slim.m3u：TVB + 体育 + 港澳台 + 央视 + 卫视）
-- TVB：44 条：华丽翡翠台[Juli], 华丽翡翠台(新加坡)[Juli], 华丽翡翠台(硬字幕)[Juli], 华丽翡翠台（备用）[Juli], 翡翠台[Juli], 翡翠台(WebVTT字幕)[Juli], 翡翠台(字幕)[Juli], 翡翠台4K[suxuang], 翡翠台4K(字幕)[Juli], 翡翠台「Relay」[YanG], 翡翠台北美版[suxuang], 翡翠台（备用）[suxuang], 华丽翡翠[裤佬], 华丽翡翠（备用）[裤佬], 翡翠剧集[裤佬], 翡翠剧集台[Juli], 明珠台[suxuang], 明珠台(WebVTT字幕)[Juli], 明珠台(字幕)[Juli], 明珠台「Relay」[YanG], 明珠台（备用）[suxuang], TVB无线新闻（备用）[suxuang], 无线新闻[suxuang], 无线新闻台[Juli], 无线新闻台（备用）[Juli], TVB娱乐新闻[suxuang], TVB娱乐新闻台[Juli], TVB娱乐新闻台（备用）[suxuang], TVB无线星河[suxuang], TVB星河[Juli], TVB星河（备用）[Juli], TVB Finance (Sports & Information Channel)[Free-TV], TVB J1（备用）[suxuang], TVB News Channel[Free-TV], TVB Plus[Juli], TVB Plus(WebVTT字幕)[Juli], TVB Plus(字幕)[Juli], TVB Plus「Relay」[YanG], TVB Plus（备用）[suxuang], TVB Vietnam (1080p)[lilei6900s], TVB亚洲武侠[Juli], TVB千禧经典（备用）[裤佬], TVB生活台[suxuang], 無綫新聞台「Relay」[YanG]
-- 体育：63 条：广东体育[Juli], 广东体育（备用）[suxuang], CCTV 5 体育「Relay」[YanG], CCTV5[Juli], CCTV5体育[裤佬], CCTV5体育（备用）[裤佬], CCTV5测试[itvlist], CCTV5测试（备用）[itvlist], CCTV5（备用）[Juli], CCTV 5+ 体育赛事「Relay」[YanG], CCTV5+[Juli], CCTV5+体育赛事[裤佬], CCTV5+体育赛事（备用）[裤佬], CCTV5+（备用）[Juli], NBA 国王 vs 勇士 - 中文解说1[裤佬], NBA 国王 vs 勇士 - 原声4[裤佬], NBA 国王 vs 勇士 - 直播2[裤佬], NBA 太阳 vs 火箭 - 中文解说8[裤佬], NBA 太阳 vs 火箭 - 原声10[裤佬], NBA 太阳 vs 火箭 - 直播11[裤佬], NBA 马刺 vs 开拓者 - 中文解说12[裤佬], NBA 马刺 vs 开拓者 - 原声5[裤佬], NBA 马刺 vs 开拓者 - 直播5[裤佬], 11-26 04:00 欧冠 葡萄牙体育 vs 曼联 (2-2) - 超清中文1[裤佬], 11-26 04:00 欧冠 葡萄牙体育 vs 曼联 (2-2) - 超清外语1[裤佬], 11-26 04:00 欧冠 葡萄牙体育 vs 曼联 (2-2) - 高清回放1[裤佬], BRTV体育休闲[suxuang], ELEVEN体育1[suxuang], ELEVEN体育2[suxuang], ELEVEN体育3[suxuang], Elta体育1台[裤佬], NewTV 精品体育[suxuang], NewTV 超级体育[suxuang], NewTV精品体育（备用）[裤佬], NewTV超级体育（备用）[裤佬], Premier体育2台 (1080p)[lilei6900s], Premier体育台 (1080p)[lilei6900s], TAP体育台 (1080p) [Geo-blocked][lilei6900s], iHOT 爱体育[suxuang], 云端体育 - 虎牙直播[裤佬], 五星体育[Juli], 五星体育（备用）[suxuang], 体育休闲[suxuang], 体育休闲频道[裤佬], 体育休闲频道（备用）[裤佬], 体育片系列[裤佬], 劲爆体育[suxuang], 劲爆体育（备用）[suxuang], 天津体育[lilei6900s], 安徽综艺体育[suxuang], 山东体育[lilei6900s], 山东体育（备用）[itvlist], 江苏体育休闲[suxuang], 澳门体育[Juli], 澳门体育（备用）[suxuang], 纬来体育[裤佬], 纬来体育台[Juli], 纬来体育台（备用）[裤佬], 超级体育[裤佬], 辽宁体育[suxuang], 陕西体育休闲[lilei6900s], 陕西体育休闲频道[裤佬], 陕西体育休闲频道（备用）[裤佬]
+- 输入合计：9127 条
+- 剔除占位/死链：1217 条
+- URL 去重后：7307 条
+- 输出合计：5808 条（全量 tvb.m3u）
+- 精简版：800 条（tvb-slim.m3u：TVB + 体育 + 港澳台 + 央视 + 卫视）
+- TVB：36 条：华丽翡翠台[Juli], 华丽翡翠台(新加坡)[Juli], 华丽翡翠台(硬字幕)[Juli], 华丽翡翠台（备用）[Juli], 翡翠台[Juli], 翡翠台(WebVTT字幕)[Juli], 翡翠台(字幕)[Juli], 翡翠台4K[suxuang], 翡翠台4K(字幕)[Juli], 翡翠台北美版[suxuang], 翡翠台（备用）[suxuang], 翡翠剧集台[Juli], 明珠台[suxuang], 明珠台(WebVTT字幕)[Juli], 明珠台(字幕)[Juli], 明珠台（备用）[suxuang], TVB无线新闻（备用）[suxuang], 无线新闻[suxuang], 无线新闻台[Juli], 无线新闻台（备用）[Juli], TVB娱乐新闻[suxuang], TVB娱乐新闻台[Juli], TVB娱乐新闻台（备用）[suxuang], TVB无线星河[suxuang], TVB星河[Juli], TVB星河（备用）[Juli], TVB Finance (Sports & Information Channel)[Free-TV], TVB J1（备用）[suxuang], TVB News Channel[Free-TV], TVB Plus[Juli], TVB Plus(WebVTT字幕)[Juli], TVB Plus(字幕)[Juli], TVB Plus（备用）[suxuang], TVB Vietnam (1080p)[lilei6900s], TVB亚洲武侠[Juli], TVB生活台[suxuang]
+- 体育：62 条：广东体育[Juli], 广东体育（备用）[suxuang], CCTV 5 体育「Relay」[YanG], CCTV5[Juli], CCTV5体育[裤佬], CCTV5体育（备用）[裤佬], CCTV5测试[itvlist], CCTV5测试（备用）[itvlist], CCTV5（备用）[Juli], CCTV5＋[裤佬], CCTV 5+ 体育赛事「Relay」[YanG], CCTV5+[Juli], CCTV5+体育赛事[裤佬], CCTV5+体育赛事（备用）[裤佬], CCTV5+（备用）[Juli], BRTV体育休闲[suxuang], ELEVEN体育1[suxuang], ELEVEN体育2[suxuang], ELEVEN体育3[suxuang], Elta体育1台[裤佬], NewTV 精品体育[suxuang], NewTV 超级体育[suxuang], NewTV精品体育（备用）[裤佬], NewTV超级体育（备用）[裤佬], Premier体育2台 (1080p)[lilei6900s], Premier体育台 (1080p)[lilei6900s], TAP体育台 (1080p) [Geo-blocked][lilei6900s], iHOT 爱体育[suxuang], 五星体育[Juli], 五星体育（备用）[suxuang], 体育休闲[suxuang], 体育休闲频道[裤佬], 体育休闲频道（备用）[裤佬], 体育片系列[裤佬], 劲爆体育[suxuang], 劲爆体育（备用）[suxuang], 北京体育休闲[裤佬], 天津体育[lilei6900s], 安徽综艺体育[suxuang], 安徽综艺体育（备用）[裤佬], 山东体育[lilei6900s], 山东体育休闲[裤佬], 山东体育（备用）[itvlist], 江苏体育休闲[suxuang], 澳门体育[Juli], 澳门体育（备用）[suxuang], 爱尔达体育 一[裤佬], 爱尔达体育 三[裤佬], 爱尔达体育 二[裤佬], 爱尔达体育 四[裤佬], 纬来体育[裤佬], 纬来体育台[Juli], 纬来体育台（备用）[裤佬], 纬来体育（备用）[裤佬], 超级体育[裤佬], 辽宁体育[suxuang], 辽宁体育（备用）[裤佬], 长春文旅体育[裤佬], 陕西体育[裤佬], 陕西体育休闲[lilei6900s], 陕西体育休闲频道[裤佬], 陕西体育休闲频道（备用）[裤佬]
 
 ## 各源
 
 - Juli (https://cdn.qd.je/live.m3u): 121 条
 - suxuang (https://bit.ly/suxuang-v4): 1212 条
-- 裤佬 (https://iptv.445569.xyz/live.m3u): 1823 条
-- lilei6900s (https://cdn.jsdelivr.net/gh/lilei6900s/iptv@main/iptv.m3u): 789 条
+- 裤佬 (https://iptv.445569.xyz/live.m3u): 2500 条
+- lilei6900s (https://cdn.jsdelivr.net/gh/lilei6900s/iptv@main/iptv.m3u): 788 条
 - weizhi (https://gh-proxy.com/https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u): 1282 条
 - APTV (https://bit.ly/iptv-aptv): 119 条
 - YanG (https://iptv.yang-1989.xyz/playlist.m3u): 171 条
